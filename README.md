@@ -1,5 +1,14 @@
 # [BootstrapVue Argon Dashboard]
 
+## Init
+
+Ejecutar el siguiente comando para instalar las dependencias necesarias para ejecutar el proyecto.
+<pre> npm install </pre>
+
+Para iniciar el servidor
+<pre> npm run serve </pre>
+
+
 ## Documentation
 The documentation for the BootsrapVue Argon Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap-vue/colors/argon-dashboard).
 
